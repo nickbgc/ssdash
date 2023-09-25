@@ -1,0 +1,2 @@
+# ssdash
+dash-plotly dashboard
